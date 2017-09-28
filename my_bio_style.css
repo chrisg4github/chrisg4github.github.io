@@ -1,0 +1,128 @@
+/* my_bio_style.css*/
+
+body{
+  font: normal 12px Georgia", Times New Roman, Times, serif;
+  color: #333333;
+  margin-top: 0%;
+  padding: 0%;
+  }
+
+#container{
+  width:1024px;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+  color: #eee;
+  font-size: 28px;
+  background-color: #333333;
+  margin-top: 0%;
+  margin-left: 0%;
+  }
+
+h3{
+  margin-left: 0%;
+  margin-bottom: 0%;
+  font-weight: bold;
+  color : blue;
+  }
+
+#bio-image{
+  border: #000000 1px solid;
+  float: left;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 0%;
+  }
+
+#f1-caption{
+  font-size: 14px;
+  float: left;
+  margin-left: -158px;
+  margin-right: 8px;
+  margin-top: 130px;
+  padding: 0%;
+}
+
+#bio-main{
+  width: 650px;
+  float: left;
+  margin-left: 0%;
+  margin-top: 0%;
+  padding: 8px;
+  font-family: Helvetica, Arial, sans-serif; 
+  }
+
+#bio-info{
+  width: 650px;
+  float: left;
+  margin-left: 0%;
+  padding: 8px;
+  font-family: Helvetica, Arial, sans-serif; 
+  }
+
+
+
+ul{
+  border: 2px solid;
+  border-color: blue;
+  list-style-position:inside;
+  width: 225px;
+  height:50px;
+  margin-top: 0%;
+  margin-left: 0%;
+  padding: 10px; 
+  }
+
+    
+
+table{  
+  color: #333; /* Lighten up font color */
+  font-family: Helvetica, Arial, sans-serif; 
+  width: 640px; 
+  border-collapse: 
+  collapse; border-spacing: 0; 
+  margin-left: .8%;
+  }
+
+td, th{border: 1px solid #CCC; height: 30px; } 
+
+th{  
+  background: #F3F3F3; /* Light grey background */
+  font-weight: bold; /* Make sure they're bold */
+  }
+
+td{  
+   background: #FAFAFA; /* Lighter grey background */
+   text-align: center; /* Center our text */
+  }
+
+
+
+
+/*
+#idea_man{
+  border: #000000 2px solid;
+  width: 150px;
+  border-color: red;
+  margin-left: 0px;
+  margin-top: -50px;
+  }
+
+h1{
+  margin-top: 20%;
+  margin-left: 42%;
+ }
+
+h2{
+  margin-left: 43%;
+ }
+
+h4{
+  margin-top: 20%;
+  margin-left: 90%;
+ }
+*/
+
+
