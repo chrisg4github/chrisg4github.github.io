@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my site!"
+title:  "Wherever you go there you are..."
 date:   2017-09-27 05:15:00 +0000
-categories: Site Under Construction
+categories: Website Construction
 ---
 Still busy with class, so I'm not able to do much with this site.  I installed Jekyll and associated applications in my local environment.  Now in class activities, we are making changes to GitHub, that impacted my site, and I'm trying to understand the impact and what version of jekyll I'm running, how to move changes out (push to GitHub), and how to put out new posts. 
 
