@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome to my site!"
-date:   2017-09-27 05:15:00 +0000
+date:   2017-09-29 07:36:00 +0000
 categories: Site Under Construction
 ---
-Still busy with class, so I'm not able to do much with this site.  I installed Jekyll and associated applications in my local environment.  Now in class activities, we are making changes to GitHub, that impacted my site, and I'm trying to understand the impact and what version of jekyll I'm running, how to move changes out (push to GitHub), and how to put out new posts. 
+Still busy with class, so I'm not able to do much with this site.  However, some of my class activities and homework will affect this site.  For example, I have a bio page off the main page that was a class activity.  There will be more of this in the future while class is going on and as I build my site into, at least partially, my portfolio.  After class is over, I will devote some time to trying to play with javascript and libraries like jquery to jazz up my site. 
 
 Jekyll Notes:
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
