@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Wherever you go there you are..."
+title:  "Why do I do the things I do?"
 date:   2017-09-27 05:15:00 +0000
 categories: Website Construction
 ---
-Still busy with class, so I'm not able to do much with this site.  I installed Jekyll and associated applications in my local environment.  Now in class activities, we are making changes to GitHub, that impacted my site, and I'm trying to understand the impact and what version of jekyll I'm running, how to move changes out (push to GitHub), and how to put out new posts. 
+Why do I choose to do extra studies when I already have more than I can learn?  I'm still very busy with class, so I'm not able to do much with this site.  I installed Jekyll and associated applications in my local environment.  Now in class activities, we are making changes to GitHub, those changes impacted my site, and I'm trying to understand the impact and what version of jekyll I'm running, how to move changes out (push to GitHub), and how to put out new posts. 
 
 Jekyll Notes:
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
