@@ -1,11 +1,11 @@
 /* my_bio_style.css*/
 
 body{
-  background: #efeee7;
-  font: normal 12px Georgia, Times New Roman, Times, serif;
+  font: normal 14px Georgia, Times New Roman, Times, serif;
   color: #333333;
-  margin-top: 0%;
-  padding: 0%;
+  background-color: #efeee7;
+  margin-top: 0;
+  padding: 0;
   }
 
 #container{
@@ -13,28 +13,32 @@ body{
   margin: 0 auto;
 }
 
+header{
+  background-color: #333333;
+}
+
 h1{
   text-align: center;
-  color: #eee;
+  color: #fafafa;
   font-size: 28px;
   background-color: #333333;
-  margin-top: 0%;
-  margin-left: 0%;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
   }
 
 h3{
-  font-size: 24px;
-  margin-top: 2%;
-  margin-left: 5%;
-  margin-bottom: 0%;
   font-weight: bold;
-  color : blue;
+  color : #e6255a;
+  margin-top: 2%;
+  margin-left: 0%;
+  margin-bottom: 0%;
   }
 
 #bio-image{
-  font-size: 18px;
   border: #000000 1px solid;
   float: left;
+  margin-top: 0;
   margin-left: 3%;
   margin-right: 3%;
   padding: 0%;
@@ -50,22 +54,21 @@ h3{
 }
 
 #bio-main{
-  font-size: 18px;
   width: 650px;
   float: left;
-  margin-left: 0%;
-  margin-top: 0%;
+  margin-top: 0;
+  margin-left: 20%;
   padding: 8px;
+  font-size: 16px;
   font-family: Helvetica, Arial, sans-serif; 
   }
 
 #bio-info{
-  font-size: 18px;
   width: 650px;
   float: left;
-  margin-top: 0%;
-  margin-left: 0%;
+  margin-left: 20%;
   padding: 8px;
+  font-size: 16px;
   font-family: Helvetica, Arial, sans-serif; 
   }
 
@@ -73,31 +76,31 @@ h3{
 
 ul{
   border: 2px solid;
-  border-color: blue;
+  border-color: #e6255a;
   list-style-position:inside;
-  width: 265px;
-  height: 65px;
-  margin-top: 0%;
-  margin-left: 5%;
-  padding: 10px; 
+  width: 215px;
+  height:55px;
+  margin-top: 0;
+  margin-left: 0;
+  padding: 5px; 
   }
 
     
 
 table{  
-  /* color: #333; Lighten up font color */
+  color: #333; /* Lighten up font color */
   font-family: Helvetica, Arial, sans-serif; 
-  width: 640px; 
+  width: 650px; 
   border-collapse: 
   collapse; border-spacing: 0; 
-  margin-top:20%;
-  margin-left: .5%;
+  margin-top: 18%;
+  margin-left: 20%;
   }
 
-td, th{border: 1px solid #6E6767; height: 30px; } /*#020202  #B9B5B5 #6E6767 */
+td, th{border: 1px solid #CCC; height: 30px; } 
 
 th{  
-  background: #B8B1B1; 
+  background: #F3F3F3; 
   font-weight: bold; 
   }
 
@@ -105,6 +108,5 @@ td{
    background: #FAFAFA; 
    text-align: center; 
   }
-
 
 
