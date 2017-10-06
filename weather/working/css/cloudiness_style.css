@@ -40,12 +40,10 @@ h2{
   margin-top: 10%;
   padding-top: 0%;
   padding-right: 5px;
-  border-right: 5px solid #ffffff;
 }
 
 hr{
   border-bottom: 20px solid #ffffff;
-  border-right: 5px solid #ffffff;
 }
 
 
@@ -60,10 +58,10 @@ hr{
 #viz-colsB{
   border-top: 25px solid #ffffff;
   margin-top: 0;
-  margin-left: 0;
+  margin-left: -5px;
   margin-right: 0;
   background-color: white;
-  padding-right: 5px;
+  padding-right: 10px;
   border-right: 8px solid #ffffff;
 }
 
