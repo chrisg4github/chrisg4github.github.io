@@ -13,6 +13,7 @@ body{
 
 .navbar-default{
   font-family: sans-serif, Georgia, Times New Roman, Times, serif;
+  font-size: 14px;
   background-color: #ffffff;
 }
 
@@ -32,7 +33,7 @@ h1{
 }
 
 h2{
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
   color: #47d2b8;
   margin-top: 4.75%;
@@ -40,4 +41,12 @@ h2{
 
 .table-responsive{
    background-color:white;
+}
+
+#data-img{
+  float: left;
+  margin-left: 0%;
+  margin-right: 15px;
+  padding: 0 0 0 0;
+  
 }
