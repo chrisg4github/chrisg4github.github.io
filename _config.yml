@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: myWebSite - Under Construction
+title: Site History
 email: #your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This site was built during a Codecademy class on deploying a website.
-  The class used Jekyll to create a static site so the focus wasn't on
+  The class used Jekyll to create a static site, so the focus wasn't on
   content or user experience.  Changes will come later as I get time to 
   learn more.  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "chrisg.rocks" # the subpath of your site, e.g. /blog
 url: "http://chrisg.rocks" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
