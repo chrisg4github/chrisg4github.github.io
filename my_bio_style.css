@@ -3,7 +3,7 @@
 body{
   font: normal 14px Georgia, Times New Roman, Times, serif;
   color: #333333;
-  background-color: #efeee7;
+  background-color: #e6fffa;  /*#C1E1A6 #efeee7 #e6fff2*/
   margin-top: 0;
   padding: 0;
   }
@@ -14,14 +14,14 @@ body{
 }
 
 header{
-  background-color: #333333;
+  background-color: #ffffff; /*#e6e6e6 #333333*/
 }
 
 h1{
   text-align: center;
-  color: #fafafa;
+  color: #333333;  /*#ccffe5 #fafafa*/
   font-size: 28px;
-  background-color: #333333;
+  background-color: #e6e6e6;
   margin-top: 0;
   margin-left: 0;
   margin-right: 0;
@@ -29,7 +29,7 @@ h1{
 
 h3{
   font-weight: bold;
-  color : #e6255a;
+  color : #00cc7a;
   margin-top: 2%;
   margin-left: 0%;
   margin-bottom: 0%;
@@ -76,7 +76,7 @@ h3{
 
 ul{
   border: 2px solid;
-  border-color: #e6255a;
+  border-color: #00cc7a;  /*#efeee7 #e6255a #00cc7a #00ff7b*/
   list-style-position:inside;
   width: 215px;
   height:55px;
@@ -100,12 +100,12 @@ table{
 td, th{border: 1px solid #CCC; height: 30px; } 
 
 th{  
-  background: #F3F3F3; 
+  background: #e6e6e6;  /*#ccffe5 #F3F3F3*/
   font-weight: bold; 
   }
 
 td{  
-   background: #FAFAFA; 
+   background: #ebfafa;  /*#e6fff2 #FAFAFA #e6ffe6 #e6fff5*/
    text-align: center; 
   }
 
