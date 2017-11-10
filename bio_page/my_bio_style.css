@@ -4,31 +4,42 @@ body{
   font: normal 14px Georgia, Times New Roman, Times, serif;
   color: #333333;
   background-color: #FFFAFF;  /*#f2ffe6 #C1E1A6 #efeee7 #e6fffa #e6fff2*/
-  margin-top: 0;
-  padding: 0;
   }
 
-#container{
-  width:1024px;
-  margin: 0 auto;
+.navbar-default{
+  font-family: sans-serif, Georgia, Times New Roman, Times, serif;
+  font-size: 14px;
+  background-color: #ffffff;
+  margin-bottom: 0;
 }
 
-header{
-  background-color: #ffffff; /*#e6e6e6 #333333*/
+#landing-link{
+  font-family: Times New Roman, Times, Georgia, serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #FFF;
+  background-color: #ff80ff;  /*#47d2b8*/
 }
+
+
+/*header{
+  background-color: #ffffff; #e6e6e6 #333333
+  margin-top: 0;
+}*/
 
 h1{
   text-align: center;
   color: #333333;  /*#ccffe5 #fafafa*/
   font-size: 28px;
-  background-color: #e6e6e6; 
+  /*background-color: #e6e6e6; */
   margin-top: 0;
-  margin-left: 0;
+  margin-left: 250px;
   margin-right: 0;
   }
 
 h3{
   font-weight: bold;
+  font-size: 20px;
   color : #999999; /* #FFD9FF #00cc7a*/ 
   margin-top: 2%;
   margin-left: 0%;
@@ -58,6 +69,7 @@ h3{
   float: left;
   margin-top: 0;
   margin-left: 20%;
+  margin-bottom: 0;
   padding: 8px;
   font-size: 16px;
   font-family: Helvetica, Arial, sans-serif; 
@@ -67,19 +79,21 @@ h3{
   width: 650px;
   float: left;
   margin-left: 20%;
+  margin-top: 0;
+  margin-bottom: 0;
   padding: 8px;
-  font-size: 16px;
+  font-size: 14px;
   font-family: Helvetica, Arial, sans-serif; 
   }
 
 
 
-ul{
+#favs{
   border: 2px solid;
   border-color: #d9d9d9;  /*#efeee7 #e6255a #00cc7a #00ff7b #00cc7a*/
   list-style-position:inside;
   width: 215px;
-  height:55px;
+  height:60px;
   margin-top: 0;
   margin-left: 0;
   padding: 5px; 
@@ -102,6 +116,7 @@ td, th{border: 1px solid #CCC; height: 30px; }
 th{  
   background: #e6e6e6;  /*#ccffe5 #F3F3F3*/
   font-weight: bold; 
+  text-align: center;
   }
 
 td{  
