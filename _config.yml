@@ -9,10 +9,7 @@
 title: my Sandbox
 email: #your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site was built using Jekyll.  Written in Ruby, Jekyll is
-  a simple, blog-aware, static site generator for personal, 
-  project, or organization sites.  Liquid by Shopify is the
-  template language and it is also written in Ruby.  
+  This site was generated using Jekyll.    
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chrisg.rocks" # the base hostname & protocol for your site
 twitter_username: jekyllrb
