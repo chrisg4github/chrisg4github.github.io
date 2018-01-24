@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: my Website
+title: my Sandbox
 email: #your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site was built during a Codecademy class on deploying a website.
-  The class used Jekyll to create a static site, so the focus wasn't on
-  content or user experience.  Changes will come later as I get time to 
-  learn more.  
+  This site was built using Jekyll.  Written in Ruby, Jekyll is
+  a simple, blog-aware, static site generator for personal, 
+  project, or organization sites.  Liquid by Shopify is the
+  template language and it is also written in Ruby.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chrisg.rocks" # the base hostname & protocol for your site
 twitter_username: jekyllrb
