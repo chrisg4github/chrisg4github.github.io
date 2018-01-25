@@ -17,12 +17,13 @@ body{
   font-family: Times New Roman, Times, Georgia, serif;
   font-size: 24px;
   font-weight: bold;
-  color: #FFF;
-  background-color: #ff80ff;  /*#47d2b8*/
+  /*color: #FFF;*/
+  background-color: #FFFAFF;  /*#ff80ff #47d2b8*/
 }
 
 
 header{
+  font-family: Times New Roman, Times, Georgia, serif;
   background-color: #e6e6e6; /*#e6e6e6 #333333 #ffffff*/
   margin-top: 0;
 }
