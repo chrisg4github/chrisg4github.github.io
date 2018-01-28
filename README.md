@@ -1,5 +1,7 @@
 # chrisg4github.github.io
 
+![http://chrisg.rocks](chrisg-rocks.png)
+
 Codecademy class - Deploy a Website 07/13/2017  
 
 - http://chrisg.rocks
